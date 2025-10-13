@@ -33,7 +33,7 @@ jupyter notebook
 
 📂 Repository Structure
 .
-├── accident_prediction.ipynb   
-├── accidents_sample.csv        
+├── ml_mini.ipynb   
+├── Accidents.csv        
 ├── requirements.txt             
 └── README.md                    

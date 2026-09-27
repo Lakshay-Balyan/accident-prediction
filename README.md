@@ -1,5 +1,4 @@
 Road Traffic Accident Severity Prediction
-This is a mini-project for the course UE23CS352A: Machine Learning.
 
 Problem Statement
 The goal of this project is to predict the severity of road accidents (classifying them as minor, serious, or fatal) based on factors like road and weather conditions.
